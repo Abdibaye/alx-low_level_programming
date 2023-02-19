@@ -9,6 +9,7 @@ int main(void)
 {
         char ch = 'a';
 
+
         for (ch = 'a'; ch <= 'z'; ch++)
         {
                 putchar(ch);
@@ -16,3 +17,38 @@ int main(void)
         putchar('\n');
         return (0);
 }
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --                                                              11,1          All
+
