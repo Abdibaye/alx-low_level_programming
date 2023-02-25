@@ -3,14 +3,14 @@
 #include <time.h>
 
 /**
- * main - prints alphabet
+ * main - Prints alphabet
  * @void: Empty parameter list for main.
  *
- * Description: prints the alphabet in lower case
- * can only use putchar
+ * Description: Prints the alphabet in lower case
+ * Can only use putchar
  *
- * Return: Always 0 (Success)
- */
+ * Return: 0 for success
+*/
 int main(void)
 {
 	char letter = 'a';
@@ -22,39 +22,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}	
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
--- INSERT --                                                              11,1          All
-
+}
