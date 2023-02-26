@@ -4,7 +4,9 @@
  * main - Print _putchar
  * Return: Always 0
  */
+
 int main(void)
+
 {
 	_putchar('_');
 	_putchar('p');
@@ -16,4 +18,5 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
+
 }
